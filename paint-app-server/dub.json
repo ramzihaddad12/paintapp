@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"Siyu Xiao"
+	],
+	"copyright": "Copyright © 2023, Siyu Xiao",
+	"dependencies": {
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "paint-app-server"
+}
